@@ -28,7 +28,7 @@ A Windows display resolution utility with multi-monitor support and refresh rate
 
 
 ## 使用方法 / Usage
-直接运行（自动请求管理员权限）：
+windows解压后直接运行（自动请求管理员权限）：
 ```bash
 python resolution_tool.py
 ```
