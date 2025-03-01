@@ -2,9 +2,12 @@
 # 显示器分辨率调节工具 / Display Resolution Tool
 
 Windows下的显示器分辨率调节工具，支持多显示器管理和刷新率设置
+
+
 A Windows display resolution utility with multi-monitor support and refresh rate control
 
 一图看懂
+
 
 ![程序运行界面截图](https://raw.githubusercontent.com/FlyMeToTheMars/DisplayResolutionTool/main/demo.png)
 
