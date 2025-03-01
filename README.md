@@ -1,9 +1,5 @@
-```markdown
-# 显示器分辨率调节工具 / Display Resolution Tool
 
-[![Python 3.6+](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/)
-[![Windows](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+# 显示器分辨率调节工具 / Display Resolution Tool
 
 Windows下的显示器分辨率调节工具，支持多显示器管理和刷新率设置
 A Windows display resolution utility with multi-monitor support and refresh rate control
@@ -24,11 +20,7 @@ A Windows display resolution utility with multi-monitor support and refresh rate
 - Python 3.6+
 - 管理员权限 / Administrator privileges
 
-```bash
-# 克隆仓库 / Clone repository
-git clone https://github.com/yourusername/display-resolution-tool.git
-cd display-resolution-tool
-```
+
 
 ## 使用方法 / Usage
 直接运行（自动请求管理员权限）：
