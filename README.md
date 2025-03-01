@@ -56,4 +56,3 @@ Welcome to submit issues and PRs:
 
 ## 许可证 / License
 [MIT](LICENSE) © flymetothemars
-```
