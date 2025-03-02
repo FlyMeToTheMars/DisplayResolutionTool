@@ -30,13 +30,13 @@ A Windows display resolution utility with multi-monitor support and refresh rate
 
 或者自己编译
 
-把源代码中的文件下载
+把源代码中的文件下载直接用python运行
 
 ```python
 python resolution_tool.py
 ```
 
-使用PyInstaller生成独立可执行文件：
+或者使用PyInstaller生成独立可执行文件(.exe文件)：
 
 ```bash
 pyinstaller --onefile --windowed --manifest resolution_gui.manifest resolution_tool.py
